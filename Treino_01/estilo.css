@@ -1,0 +1,27 @@
+h1{
+    color: #000000;
+}
+body{
+    background: linear-gradient(90deg, #ff6428, #bb4110);
+    
+    background-clip: text;
+    
+    -webkit-background-clip: text;
+    
+    color: transparent;
+}
+p{
+    color: white;
+}
+label{
+    color: #fffafa;
+}
+fieldset{
+    color:white;
+}
+legend{
+    color: white;
+}
+button{
+    color: #000;
+}
