@@ -23,8 +23,9 @@ button{
 
 body{
     margin: 0;
-    background-image: url(https://images3.alphacoders.com/716/716813.png);
+    background-image: url(https://st.depositphotos.com/3008028/3752/i/600/depositphotos_37524563-stock-photo-black-background-or-luxury-gray.jpg);
     background-size: 85pc;
+    background-attachment: fixed;
 }
 
 #logo-db{
@@ -84,3 +85,105 @@ p{
     border-color: rgb(253, 122, 0);
 }
 
+#main-flex{
+        display: flex;
+        margin-right: 10pc;
+        margin-left: 2pc;
+        border-style: none;
+        border-radius: 10px;
+}
+
+.flex-titles{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.p-flex-curious{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding-right: 10px;
+}
+li{
+    color: rgb(253, 122, 0);
+}
+
+#right-article{
+    margin-left: 5pc;
+    margin-right: 5pc;
+}
+
+.personagens-queridos-img{
+    width: 120px;
+    height: 120px;
+    margin-left: 33pc;
+    margin-right: 10pc;
+    border-style: outset;
+    border-color: rgb(255, 136, 0);
+}
+h3{
+    margin-left: 25pc;
+    margin-right: 25pc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    border-style: outset;
+    border-color: rgb(255, 136, 0);
+    text-align: center;
+    background-color: black;
+    color: #ff8800;
+    
+}
+
+.p-person-queridos{
+    margin-left: 10pc;
+    margin-right: 10pc;
+    border-style: double;
+    border-color: rgb(255, 136, 0);
+    background-color: black;
+    padding: 10px;
+    border-width: 5px;
+}
+
+#img-canto-direito{
+    height: 500px;
+    width: 400px;
+    margin-top: 2pc;
+}
+
+#img-canto-esque{
+    height: 500px;
+    width: 160px;
+    margin-top: 2pc;
+}
+
+.exposition-final{
+    display: inline;
+    width: 200px;
+    height: 300px;
+    margin-left: 5pc;
+    margin-top: 2pc;
+}
+
+footer{
+    background-color: black;
+    border-style: outset;
+    border-color: rgb(255, 136, 0);
+}
+
+#rodapé{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    text-align: center;
+    color: #ff8800;
+    margin-left: 10px;
+     
+}
+
+#foot{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff8800;
+    margin-left: 10px;
+    border-style: none;
+    background-color: black;
+}
